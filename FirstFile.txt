@@ -3,3 +3,5 @@ This is my first file
 Zack is modifying the file on local
 
 Somebody modified the file in the server
+
+Modified in Intellij
